@@ -1,0 +1,18 @@
+0
+4 up
+
+1
+2 up 3 south 5 east
+
+2
+1 down
+
+3
+1 north 4 east
+
+4
+3 west 5 north 0 down
+
+5
+1 west 4 south
+

@@ -1,0 +1,30 @@
+0
+1 2 3
+hi
+Hi there, do you want to talk about trees, plants, or fish?
+
+1
+
+fish
+Fish swim in the sea.
+
+2
+4
+trees
+Trees are green and tall.
+
+3
+5
+plants
+Plants are green, but short.
+
+4
+
+green
+Hmm yes, I like green...
+
+5
+
+short
+Short things, well I don't know much about them cause I'm not one of them :P
+
