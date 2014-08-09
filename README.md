@@ -8,3 +8,5 @@ This game is written in Java and currently is more of a generic engine that take
 There is a limited ability for conversation with dialogue trees where the player can encourage more conversation by repeating the correct word in the dialogue given. The dialogue and the conversation structure is also read in through a text file.  
 
 Currently the ability to fight is not properly implimented yet.
+
+I wrote the bulk of this code around Janury 2014
